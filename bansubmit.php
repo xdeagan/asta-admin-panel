@@ -14,13 +14,13 @@ if (isset($_SERVER)) {
 	}
 }
 
-if ($address === '47.39.46.24') {
-	
+if ($address === 'your_ip_here_') {
+	//if you do not put your ip up there the script wont work.
 	
 $host       = "localhost";
-$dbusername = "asta";
-$dbpassword = "3children";
-$dbname     = "asta";
+$dbusername = "user";
+$dbpassword = "pass";
+$dbname     = "db";
 // Create connection
 $conn = new mysqli ($host, $dbusername, $dbpassword, $dbname);
 if (mysqli_connect_error()) {
