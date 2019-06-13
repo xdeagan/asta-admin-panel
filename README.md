@@ -7,4 +7,4 @@ DO NOT use this this unless you are planning on adding security
 3. You are done.
 
 # Info
-this is my first ever project so please don't call it cancer.. i am already aware.
+this is my first ever project so please don't call it cancer.. i am aware.
